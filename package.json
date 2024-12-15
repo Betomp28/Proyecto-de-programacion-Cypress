@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-de-programacion-cypress",
+  "version": "1.0.0",
+  "description": "Proyecto Cypress ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.16.1"
+  }
+}
